@@ -8,10 +8,11 @@
 
 - 🤝 I’m looking for help with [Paasify Collections](https://github.com/barbu-it/paasify-collection-community)
 
-- 💬 Ask me about **anything related to Linux or FOSS ecosystem**
+- 💬 Ask me about **anything related to Linux or devops or FOSS ecosystem**
 
 - 📫 How to reach me **mrjk DOT 78 AT gmail DOT com**
 
+- 🏠 I live in Montréal in 🇨🇦 and that's awesome!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjk&label=Profile%20views&color=0e75b6&style=flat" alt="mrjk" /> </p>
 
