@@ -35,7 +35,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrjk" alt="mrjk" /></a> </p>
 
-
-<!-- Matomo Image Tracker-->
-<img referrerpolicy="no-referrer-when-downgrade" src="https://m.barbu-it.com/matomo.php?idsite=3&amp;rec=1" style="border:0" alt="" />
-<!-- End Matomo -->
+![](https://hit.yhype.me/github/profile?user_id=220273)
+![](https://m.barbu-it.com/matomo.php?idsite=3&amp;rec=1)
