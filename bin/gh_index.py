@@ -634,27 +634,27 @@ class RenderTopicsTree(_Render):
                 output.append(repo.md_as_in_list())
             output.append("")
 
-        output.append("# Other repos")
-        for tag in unsorted_keys:
-            repo_names = self.obj.tagged[tag]
-            tag_info = parse_tag(tag)
-            title = f"{tag}"
+        # output.append("# Other repos")
+        # for tag in unsorted_keys:
+        #     repo_names = self.obj.tagged[tag]
+        #     tag_info = parse_tag(tag)
+        #     title = f"{tag}"
 
-            # Check for parent tags
-            parent = tag_info.parent
-            if parent:
-                # print ("CREATE PARENT", parent)
-                if not parent in done_titles:
-                    output.append(f"{tag_info.title_prefix} {make_tag_link(parent)}\n")
-                done_titles.append(parent)
+        #     # Check for parent tags
+        #     parent = tag_info.parent
+        #     if parent:
+        #         # print ("CREATE PARENT", parent)
+        #         if not parent in done_titles:
+        #             output.append(f"{tag_info.title_prefix} {make_tag_link(parent)}\n")
+        #         done_titles.append(parent)
 
-            if not title in done_titles:
-                output.append(f"#{tag_info.title_prefix} {make_tag_link(title)}\n")
-                done_titles.append(title)
+        #     if not title in done_titles:
+        #         output.append(f"#{tag_info.title_prefix} {make_tag_link(title)}\n")
+        #         done_titles.append(title)
 
-            for repo in repo_names:
-                output.append(repo.md_as_in_list())
-            output.append("")
+        #     for repo in repo_names:
+        #         output.append(repo.md_as_in_list())
+        #     output.append("")
 
 
         # Build final document
