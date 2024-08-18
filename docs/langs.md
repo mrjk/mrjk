@@ -5,12 +5,12 @@ List of project with langs.
 
 # Summary
 
-  - [Tag: lang-ansible](#Tag:-lang-ansible)
-  - [Tag: lang-bash](#Tag:-lang-bash)
-  - [Tag: lang-packer](#Tag:-lang-packer)
-  - [Tag: lang-python](#Tag:-lang-python)
-  - [Tag: lang-ruby](#Tag:-lang-ruby)
-  - [Tag: lang-yaml](#Tag:-lang-yaml)
+  - [Tag: lang-ansible](#Tag--lang-ansible)
+  - [Tag: lang-bash](#Tag--lang-bash)
+  - [Tag: lang-packer](#Tag--lang-packer)
+  - [Tag: lang-python](#Tag--lang-python)
+  - [Tag: lang-ruby](#Tag--lang-ruby)
+  - [Tag: lang-yaml](#Tag--lang-yaml)
   - [Untagged](#Untagged)
 
 

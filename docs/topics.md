@@ -59,9 +59,9 @@ List of topics.
 
 
 # Tagged repos
-## lang
+## [lang](https://github.com/topics/lang)
 
-### lang-ansible
+### [lang-ansible](https://github.com/topics/lang-ansible)
 
 - [ansible-openwrt-examples](https://github.com/mrjk/ansible-openwrt-examples): Example playbooks to setup your OpenWRT-router with ansible
 - [ansible-plugins](https://github.com/mrjk/ansible-plugins): This repo hosts Ansible plugins
@@ -76,7 +76,7 @@ List of topics.
 - [ansible-skel](https://github.com/mrjk/ansible-skel): Ansible skeleton to quick start
 - [ansible.utils](https://github.com/mrjk/ansible.utils): Ansible Utils Plugin Collection. 
 
-### lang-bash
+### [lang-bash](https://github.com/topics/lang-bash)
 
 - [asdf](https://github.com/mrjk/asdf): Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [asdf-fetch-pass](https://github.com/mrjk/asdf-fetch-pass): None
@@ -87,34 +87,34 @@ List of topics.
 - [asdf-shprofile](https://github.com/mrjk/asdf-shprofile): shprofile asdf plugin
 - [asdf-vault-keepass-client](https://github.com/mrjk/asdf-vault-keepass-client): Asdf install script for vault-keepass-client
 
-### lang-packer
+### [lang-packer](https://github.com/topics/lang-packer)
 
 - [alpine-gcp-image-builder-fork](https://github.com/mrjk/alpine-gcp-image-builder-fork): This Packer template can be used to create an Alpine Linux image that is compatible with GCP, QEMU and Xen.
 
-### lang-python
+### [lang-python](https://github.com/topics/lang-python)
 
 - [0rmuc0-app](https://github.com/mrjk/0rmuc0-app): Interview exercise
 - [barbu-by-jezu](https://github.com/mrjk/barbu-by-jezu): Automatically exported from code.google.com/p/barbu-by-jezu
 - [python-project-poetry-template](https://github.com/mrjk/python-project-poetry-template): A python project template with Poetry
 
-### lang-ruby
+### [lang-ruby](https://github.com/topics/lang-ruby)
 
 - [easy-vagrant](https://github.com/mrjk/easy-vagrant): Easy-vagrant, deploy and distribute easily your development environment.
 
-### lang-yaml
+### [lang-yaml](https://github.com/topics/lang-yaml)
 
 - [easy-vagrant](https://github.com/mrjk/easy-vagrant): Easy-vagrant, deploy and distribute easily your development environment.
 
-## ansible
+## [ansible](https://github.com/topics/ansible)
 
 - [ansible-openwrt-examples](https://github.com/mrjk/ansible-openwrt-examples): Example playbooks to setup your OpenWRT-router with ansible
 - [ansible-skel](https://github.com/mrjk/ansible-skel): Ansible skeleton to quick start
 
-### ansible-project
+### [ansible-project](https://github.com/topics/ansible-project)
 
 - [ansible-skel](https://github.com/mrjk/ansible-skel): Ansible skeleton to quick start
 
-### ansible-role
+### [ansible-role](https://github.com/topics/ansible-role)
 
 - [ansible-plugins](https://github.com/mrjk/ansible-plugins): This repo hosts Ansible plugins
 - [ansible-role-debug](https://github.com/mrjk/ansible-role-debug): Ansible role for managing a debug user, debug tools and debugging ansible variables.
@@ -127,22 +127,22 @@ List of topics.
 - [ansible-role-sysadmin](https://github.com/mrjk/ansible-role-sysadmin): Ansible role to deploy a sysadmin basic environment.
 - [ansible.utils](https://github.com/mrjk/ansible.utils): Ansible Utils Plugin Collection. 
 
-## mrjk
+## [mrjk](https://github.com/topics/mrjk)
 
-### mrjk-app
+### [mrjk-app](https://github.com/topics/mrjk-app)
 
 - [barbu-by-jezu](https://github.com/mrjk/barbu-by-jezu): Automatically exported from code.google.com/p/barbu-by-jezu
 - [easy-vagrant](https://github.com/mrjk/easy-vagrant): Easy-vagrant, deploy and distribute easily your development environment.
 
-### mrjk-apps
+### [mrjk-apps](https://github.com/topics/mrjk-apps)
 
 - [fetch-pass](https://github.com/mrjk/fetch-pass): Simple tool to access secrets in various sources
 - [git-db](https://github.com/mrjk/git-db): Shell script that allow to read and write ini files with git
 - [keepassx-cli](https://github.com/mrjk/keepassx-cli): A shell script to read easily secrets and attachments in KeepassXC.
 
-### mrjk-asdf
+### [mrjk-asdf](https://github.com/topics/mrjk-asdf)
 
-#### mrjk-asdf-plugin
+#### [mrjk-asdf-plugin](https://github.com/topics/mrjk-asdf-plugin)
 
 - [asdf-fetch-pass](https://github.com/mrjk/asdf-fetch-pass): None
 - [asdf-git-db](https://github.com/mrjk/asdf-git-db): None
@@ -152,26 +152,26 @@ List of topics.
 - [asdf-shprofile](https://github.com/mrjk/asdf-shprofile): shprofile asdf plugin
 - [asdf-vault-keepass-client](https://github.com/mrjk/asdf-vault-keepass-client): Asdf install script for vault-keepass-client
 
-### mrjk-demo
+### [mrjk-demo](https://github.com/topics/mrjk-demo)
 
 - [0rmuc0-app](https://github.com/mrjk/0rmuc0-app): Interview exercise
 
-### mrjk-dev
+### [mrjk-dev](https://github.com/topics/mrjk-dev)
 
-#### mrjk-dev-shell
+#### [mrjk-dev-shell](https://github.com/topics/mrjk-dev-shell)
 
 - [clish](https://github.com/mrjk/clish): Portable Bash Command Line framework.
 - [import.sh](https://github.com/mrjk/import.sh): Import with ease bash libraries
 - [shapp](https://github.com/mrjk/shapp): A spiritual ancestor of clish (renamed to shapp)
 - [sub](https://github.com/mrjk/sub): a delicious way to organize programs
 
-### mrjk-fork
+### [mrjk-fork](https://github.com/topics/mrjk-fork)
 
 - [asdf](https://github.com/mrjk/asdf): Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
-### mrjk-shell
+### [mrjk-shell](https://github.com/topics/mrjk-shell)
 
-#### mrjk-shell-personal
+#### [mrjk-shell-personal](https://github.com/topics/mrjk-shell-personal)
 
 - [bootstrap](https://github.com/mrjk/bootstrap): List of personal scripts to bootstrap things
 - [dot-git](https://github.com/mrjk/dot-git): Managing your dotfiles the Git Way™
@@ -181,7 +181,7 @@ List of topics.
 - [subuser-jez-repository](https://github.com/mrjk/subuser-jez-repository): None
 - [wiki-tech](https://github.com/mrjk/wiki-tech): Personal Wiki
 
-#### mrjk-shell-toolbox
+#### [mrjk-shell-toolbox](https://github.com/topics/mrjk-shell-toolbox)
 
 - [asdf-fetch-pass](https://github.com/mrjk/asdf-fetch-pass): None
 - [asdf-git-db](https://github.com/mrjk/asdf-git-db): None
@@ -204,28 +204,28 @@ List of topics.
 - [vcsh](https://github.com/mrjk/vcsh): config manager based on Git
 - [xsh](https://github.com/mrjk/xsh): A simple framework for shell configuration management.
 
-### mrjk-template
+### [mrjk-template](https://github.com/topics/mrjk-template)
 
 - [ansible-skel](https://github.com/mrjk/ansible-skel): Ansible skeleton to quick start
 - [python-project-poetry-template](https://github.com/mrjk/python-project-poetry-template): A python project template with Poetry
 
-## shell
+## [shell](https://github.com/topics/shell)
 
-### shell-tools
+### [shell-tools](https://github.com/topics/shell-tools)
 
 - [bootstrap](https://github.com/mrjk/bootstrap): List of personal scripts to bootstrap things
 - [clish](https://github.com/mrjk/clish): Portable Bash Command Line framework.
 - [idmgr](https://github.com/mrjk/idmgr): A simple idmgr for bash
 
-## asdf
+## [asdf](https://github.com/topics/asdf)
 
 - [asdf](https://github.com/mrjk/asdf): Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
-### asdf-fork
+### [asdf-fork](https://github.com/topics/asdf-fork)
 
 - [asdf](https://github.com/mrjk/asdf): Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
-### asdf-plugin
+### [asdf-plugin](https://github.com/topics/asdf-plugin)
 
 - [asdf-fetch-pass](https://github.com/mrjk/asdf-fetch-pass): None
 - [asdf-git-db](https://github.com/mrjk/asdf-git-db): None
@@ -235,7 +235,7 @@ List of topics.
 - [asdf-shprofile](https://github.com/mrjk/asdf-shprofile): shprofile asdf plugin
 - [asdf-vault-keepass-client](https://github.com/mrjk/asdf-vault-keepass-client): Asdf install script for vault-keepass-client
 
-## no_topics
+## [no_topics](https://github.com/topics/no_topics)
 
 - [alpine-image-fork](https://github.com/mrjk/alpine-image-fork): AlpineLinux pre-build disk images
 - [book-insultapp](https://github.com/mrjk/book-insultapp): None
@@ -282,83 +282,83 @@ List of topics.
 - [xfce4-panel-profiles](https://github.com/mrjk/xfce4-panel-profiles): Mirror repository, PRs are not watched, please use Xfce's GitLab
 
 # Other repos
-## bash
+## [bash](https://github.com/topics/bash)
 
 - [libvirt-hook-controller](https://github.com/mrjk/libvirt-hook-controller): Minimal hook controller for libvirt daemon
 
-## dnsmasq
+## [dnsmasq](https://github.com/topics/dnsmasq)
 
 - [libvirt-hook-controller](https://github.com/mrjk/libvirt-hook-controller): Minimal hook controller for libvirt daemon
 
-## homedot
+## [homedot](https://github.com/topics/homedot)
 
-### homedot-app
+### [homedot-app](https://github.com/topics/homedot-app)
 
 - [yadm](https://github.com/mrjk/yadm): Yet Another Dotfiles Manager
 
-## hooks
+## [hooks](https://github.com/topics/hooks)
 
 - [libvirt-hook-controller](https://github.com/mrjk/libvirt-hook-controller): Minimal hook controller for libvirt daemon
 
-## inventory
+## [inventory](https://github.com/topics/inventory)
 
 - [ansible-skel](https://github.com/mrjk/ansible-skel): Ansible skeleton to quick start
 
-## keepalived
+## [keepalived](https://github.com/topics/keepalived)
 
 - [ansible-role-keepalived-base](https://github.com/mrjk/ansible-role-keepalived-base): This role install the base config of keepalived
 - [ansible-role-keepalived-vrrp](https://github.com/mrjk/ansible-role-keepalived-vrrp): This role will configre a VRRP
 
-## libvirt
+## [libvirt](https://github.com/topics/libvirt)
 
 - [easy-vagrant](https://github.com/mrjk/easy-vagrant): Easy-vagrant, deploy and distribute easily your development environment.
 - [libvirt-hook-controller](https://github.com/mrjk/libvirt-hook-controller): Minimal hook controller for libvirt daemon
 
-### libvirt-hooks
+### [libvirt-hooks](https://github.com/topics/libvirt-hooks)
 
 - [libvirt-hook-controller](https://github.com/mrjk/libvirt-hook-controller): Minimal hook controller for libvirt daemon
 
-## openwrt
+## [openwrt](https://github.com/topics/openwrt)
 
 - [ansible-openwrt-examples](https://github.com/mrjk/ansible-openwrt-examples): Example playbooks to setup your OpenWRT-router with ansible
 
-## packer
+## [packer](https://github.com/topics/packer)
 
 - [alpine-gcp-image-builder-fork](https://github.com/mrjk/alpine-gcp-image-builder-fork): This Packer template can be used to create an Alpine Linux image that is compatible with GCP, QEMU and Xen.
 
-## playbook
+## [playbook](https://github.com/topics/playbook)
 
 - [ansible-skel](https://github.com/mrjk/ansible-skel): Ansible skeleton to quick start
 
-## poetry
+## [poetry](https://github.com/topics/poetry)
 
 - [python-project-poetry-template](https://github.com/mrjk/python-project-poetry-template): A python project template with Poetry
 
-## python
+## [python](https://github.com/topics/python)
 
 - [python-project-poetry-template](https://github.com/mrjk/python-project-poetry-template): A python project template with Poetry
 
-## rabbitmq
+## [rabbitmq](https://github.com/topics/rabbitmq)
 
 - [ansible-role-rabbitmq-base](https://github.com/mrjk/ansible-role-rabbitmq-base): This role install the base config of RabbitMQ
 - [ansible-role-rabbitmq-cluster](https://github.com/mrjk/ansible-role-rabbitmq-cluster): This role setup a RabbitMQ cluster
 
-## semver
+## [semver](https://github.com/topics/semver)
 
 - [python-project-poetry-template](https://github.com/mrjk/python-project-poetry-template): A python project template with Poetry
 
-## skeleton
+## [skeleton](https://github.com/topics/skeleton)
 
 - [ansible-skel](https://github.com/mrjk/ansible-skel): Ansible skeleton to quick start
 
-## structure
+## [structure](https://github.com/topics/structure)
 
 - [ansible-skel](https://github.com/mrjk/ansible-skel): Ansible skeleton to quick start
 
-## vagrant
+## [vagrant](https://github.com/topics/vagrant)
 
 - [easy-vagrant](https://github.com/mrjk/easy-vagrant): Easy-vagrant, deploy and distribute easily your development environment.
 
-## virtualbox
+## [virtualbox](https://github.com/topics/virtualbox)
 
 - [easy-vagrant](https://github.com/mrjk/easy-vagrant): Easy-vagrant, deploy and distribute easily your development environment.
