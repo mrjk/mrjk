@@ -16,6 +16,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjk&label=Profile%20views&color=0e75b6&style=flat" alt="mrjk" /> </p>
 
+### My repos:
+
+You can explore my work [by topics](docs/topics.md) or [by languages](docs/langs.md).
+
 
 ### Languages and Tools:
 
